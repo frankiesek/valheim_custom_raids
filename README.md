@@ -1,5 +1,7 @@
 # valheim_custom_raids
 More raid configs for Valheim "Custom Raids" mod
+https://www.nexusmods.com/valheim/mods/278
+https://valheim.thunderstore.io/package/ASharpPen/Custom_Raids/
 
 Please, keep the config structure as follows:
 - Filename: "raids/custom_raids.supplemental.%raidName%.cfg"
