@@ -10,5 +10,6 @@ Please, keep the config structure as follows:
 List of commited raids:
 burningground - The ground begins to produce flames. Also some surtlings (after Elder). 
 deathsquitoes - Spawns pissed of swarm of deathsquitos. (scales with bosses killed, starts after bonemass). 
-mountains - Spawns dragon hatchlings (and a golem after defeating Moder).
 forrest - Spawns some roots and greydwarfs in a forrest after Elder demise. 
+goblinparty - Spawns goblin hunting party after Moder demise.
+mountains - Spawns dragon hatchlings (and a golem after defeating Moder).
