@@ -10,8 +10,13 @@ Please, keep the config structure as follows:
 - PLEASE, test your raids before commiting.
 
 List of commited raids:
+- bonemassghost - The ghost of Bonemass can hunt you after his demise.
 - burningground - The ground begins to produce flames. Some greylings for fun. Also some surtlings (2 after Eikhtyr, more after Elder). 
 - deathsquitoes - Spawns pissed of swarm of deathsquitos. (scales with bosses killed, starts after bonemass). 
+- dragonghost - The ghost of Moder can hunt you after his demise.
+- eikhtyrghost - The ghost of Eikthyr can hunt you after his demise.
+- elderghost - The ghost of Greydwarf king Elder can hunt you after his demise.  
 - forrest - Spawns some roots and greydwarfs in a black forrest. 
 - goblinparty - Spawns goblin hunting party after Moder demise.
 - mountains - Spawns dragon hatchlings (and a golem after defeating Moder).
+- yagluthghost - The ghost of Goblin kin Yagluth can hunt you after his demise.
