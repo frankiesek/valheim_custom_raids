@@ -18,5 +18,6 @@ List of commited raids:
 - elderghost - The ghost of Greydwarf king Elder can hunt you after his demise.  
 - forrest - Spawns some roots and greydwarfs in a black forrest. 
 - goblinparty - Spawns goblin hunting party after Moder demise.
+- hunted - Spawns hunting party. Boars, necks, skeletons, wolves. All alied together.
 - mountains - Spawns dragon hatchlings (and a golem after defeating Moder).
 - yagluthghost - The ghost of Goblin kin Yagluth can hunt you after his demise.
