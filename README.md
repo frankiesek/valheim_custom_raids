@@ -20,4 +20,5 @@ List of commited raids:
 - goblinparty - Spawns goblin hunting party after Moder demise.
 - hunted - Spawns hunting party. Boars, necks, skeletons, wolves. All alied together.
 - mountains - Spawns dragon hatchlings (and a golem after defeating Moder).
+- shakes - Spawns creatures, that shake the ground. May not go along really well. That may save your life.
 - yagluthghost - The ghost of Goblin kin Yagluth can hunt you after his demise.
