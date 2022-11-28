@@ -18,9 +18,9 @@ List of commited raids:
 - elderghost - The ghost of Greydwarf king Elder can hunt you after his demise.  
 - forrest - Spawns some roots and greydwarfs in a black forrest. 
 - goblinparty - Spawns goblin hunting party after Moder demise.
+- haunted - ghost attack you in the swamp. Wraith also spawn after bonemass and moder
 - hunted - Spawns hunting party. Boars, necks, skeletons, wolves. All alied together.
 - mountains - Spawns dragon hatchlings (and a golem after defeating Moder).
 - shakes - Spawns creatures, that shake the ground. May not go along really well. That may save your life.
-- yagluthghost - The ghost of Goblin kin Yagluth can hunt you after his demise.
 - tempest - Thor tests your strength by sending you a thunderstorm with lighting. Additional leeches, drake and serpent spawn after bonemass, moder and gdking.
-- haunted - ghost attack you in the swamp. Wraith also spawn after bonemass and moder
+- yagluthghost - The ghost of Goblin kin Yagluth can hunt you after his demise.
