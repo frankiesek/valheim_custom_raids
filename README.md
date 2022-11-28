@@ -22,3 +22,5 @@ List of commited raids:
 - mountains - Spawns dragon hatchlings (and a golem after defeating Moder).
 - shakes - Spawns creatures, that shake the ground. May not go along really well. That may save your life.
 - yagluthghost - The ghost of Goblin kin Yagluth can hunt you after his demise.
+- tempest - Thor tests your strength by sending you a thunderstorm with lighting. Additional leeches, drake and serpent spawn after bonemass, moder and gdking.
+- haunted - ghost attack you in the swamp. Wraith also spawn after bonemass and moder
